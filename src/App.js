@@ -1,7 +1,7 @@
 import React from "react";
 import { Routes, Route, useNavigate } from "react-router-dom";
 
-import Login from "./components/Login";
+import { Login } from "./components";
 import Home from "./container/Home";
 
 const App = () => {
